@@ -35,7 +35,7 @@
                     <div class="container">
                         <div class="carousel-caption">
                             <h1>WELCOME TO THE DRESS WORLD</h1>
-                            <p>Here You Can Browse And Buy Cars.Order Now For Your Amazing New Arrivals</p>
+                            <p>Here You Can Browse And Buy dresses.Order Now For Your Amazing New fashions</p>
                         </div>
                     </div>
                 </div>
@@ -49,11 +49,10 @@
                     </div>
                 </div>
                 <div class="item">
-                    <img class="img-responsive" src="resources/images/3.jpg" alt="Third slide" height="100%" width="100%">
-                    <div class="container">
+                    <img class="img-responsive" src="resources/images/3.jpg" alt="Third slide" height="100%" width="100%">                    <div class="container">
                         <div class="carousel-caption">
                             <h1>The variety of dresses You Love</h1>
-                            <p>live Freely,Work Happily And Drive Safely!!</p>
+                            <p>live Freely,Work Happily And look beautifully!!</p>
                         </div>
                     </div>
                 </div>
@@ -62,7 +61,7 @@
                     <div class="container">
                         <div class="carousel-caption">
                             <h1>Any dresses can be a "quality" dresses</h1>
-                            <p>your life,your car...you own it!!</p>
+                            <p>your life,your fashion collection dresses...you own it!!</p>
                         </div>
                     </div>
                 </div>

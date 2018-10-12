@@ -43,7 +43,7 @@ $('.table').DataTable({
 						<td><a
 							href="<c:url value='/all/getproduct/${p.id }'></c:url>">${p.id }</a></td>
 						<td><img
-							src="<c:url value='/classes/images/${p.id }.jpg'></c:url>"
+							src="<c:url value='/resources/images/${p.id }.jpg'></c:url>"
 							height="30px" width="30px"></td>
 
 						<td><a
